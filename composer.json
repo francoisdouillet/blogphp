@@ -1,0 +1,13 @@
+{
+    "name": "camile/blog",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "francoisdouillet",
+        "email": "francois.douillet@sfr.fr"
+    }],
+    "require": {}
+}
