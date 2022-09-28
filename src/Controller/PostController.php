@@ -6,6 +6,6 @@ class PostController
 {
     public function index()
     {
-        require(ROOT . 'src/view/post.php');
+        require(ROOT . '/src/view/post.php');
     }
 }

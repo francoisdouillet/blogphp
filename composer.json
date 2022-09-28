@@ -1,5 +1,5 @@
 {
-    "name": "camile/blog",
+    "name": "francoisdouillet/blog",
     "autoload": {
         "psr-4": {
             "App\\": "src/"

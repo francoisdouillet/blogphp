@@ -10,10 +10,10 @@
     <h1>MON SUPER BLOG</h1>
     <nav>
         <li><a href="/">Accueil</a></li>
-        <li><a href="page?=post">Articles</a></li>
+        <li><a href="?page=post">Articles</a></li>
     </nav>
     <main>
-        <p>Tu peux cliquer <a href="page?=post">ici</a> pour voir tous mes postes :D!</p>
+        <p>Tu peux cliquer <a href="?page=post">ici</a> pour voir tous mes postes :D!</p>
     </main>
 </body>
 </html>

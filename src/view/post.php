@@ -10,7 +10,7 @@
     <h1>MON SUPER BLOG</h1>
     <nav>
         <li><a href="/">Accueil</a></li>
-        <li><a href="page?=post">Articles</a></li>
+        <li><a href="?page=post">Articles</a></li>
     </nav>
     <main>
         <?php for($i=0;$i<10;$i++) { ?>
